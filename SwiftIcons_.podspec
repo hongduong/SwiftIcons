@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-    s.name = 'SwiftIcons'
+    s.name = 'SwiftIcons_'
     s.version = '3.2'
     s.swift_versions = ['4.2', '5.0']
     s.summary = 'SwiftIcons - A library for using different font icons'
